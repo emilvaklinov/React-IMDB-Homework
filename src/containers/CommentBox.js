@@ -8,8 +8,8 @@ class CommentBox extends Component {
       super(props);
       this.state = {
         data: [
-          {author: "Rick Henry", text: "This lesson is great!"},
-          {author: "Val Gibson", text: "I love React."}
+          {name: "Sousage party", text: "Showtimes"},
+          {name: "Cafe Society", text: "Showtimes"}
 
         ]
       }
