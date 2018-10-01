@@ -7,7 +7,7 @@ class CommentBox extends Component {
   constructor(props){
       super(props);
       this.state = {
-        data: [
+        films: [
           {name: "Sousage party", text: "Showtimes"},
           {name: "Cafe Society", text: "Showtimes"}
 
@@ -16,7 +16,7 @@ class CommentBox extends Component {
     }
 
     render(){
-      return <CommentList data={this.state.data} />
+      return <CommentList data={this.state.films} />
     }
 
 }
