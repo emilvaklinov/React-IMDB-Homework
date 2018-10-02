@@ -9,4 +9,3 @@ const FilmRow = (props) => {
 };
 
 export default FilmRow;
-s
