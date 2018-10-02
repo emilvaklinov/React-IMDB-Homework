@@ -15,18 +15,18 @@ a{
   background-color: #f1f1f1;
 }
 
-.movie-table{
+.film-table{
   border-bottom: solid 1px #ccc;
   border-top: solid 1px #ccc;
   margin-top: 10px;
 }
 
-.movie-row{
+.film-row{
   padding: 10px;
   font-size: 14px;
 }
 
-.more-link{
+.link{
   padding: 10px;
 }
 
