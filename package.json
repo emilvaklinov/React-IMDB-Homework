@@ -3,9 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "jest-dom": "^1.12.1",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
-    "react-scripts": "1.1.5"
+    "react-scripts": "1.1.5",
+    "react-testing-library": "^5.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
